@@ -29,5 +29,8 @@
     <li>Click the "Copy" button to copy the generated password to your clipboard.</li>
 </ol>
 
+<h2>NYC Collision Map</h2>
+<p>Explore NYC motor-vehicle collisions by hour and weekday/weekend. <a href="collision-map/README.md">About the project and how to run it</a>.</p>
+
 </body>
 </html>

@@ -1,0 +1,12 @@
+{
+  "name": "nyc-collision-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive NYC motor vehicle collision map for January 2016",
+  "scripts": {
+    "start": "node serve.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
