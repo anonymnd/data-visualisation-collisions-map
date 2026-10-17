@@ -7,8 +7,8 @@ An interactive map of NYC motor-vehicle collisions in January 2016. It helps exp
 Install Node.js 18 or newer, then run:
 
 ```sh
-git clone https://github.com/anonymnd/passwordGenerator.git
-cd passwordGenerator/collision-map
+git clone https://github.com/anonymnd/data-visualisation-collisions-map.git
+cd data-visualisation-collisions-map/collision-map
 npm start
 ```
 
